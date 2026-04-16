@@ -38,3 +38,18 @@ ping 10.1.1.99
 No response received
 Observed packet loss 
 
+
+Outputs
+Basic ping 
+Error ping 
+
+
+ Learnings
+Understood how ping checks connectivity
+Learned about RTT (Round Trip Time)
+Identified packet loss in unreachable networks
+Explored different ping options and their effects
+
+ Conclusion
+
+All Week 02 tasks were successfully completed and documented. This week improved my understanding of IP configuration and network testing, which are essential skills in networking and cybersecurity.
