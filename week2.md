@@ -21,7 +21,7 @@ Assigned IP addresses to all hosts
  Basic Ping Test
 
 Command:
-ping 10.1.1.2
+ping 10.10.0.42
 
 Observed successful replies
 
