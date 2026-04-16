@@ -21,6 +21,11 @@ The router allowed hosts in various VLANs to connect with each other.
 Inter-VLAN routeing that works
 Ping tests verified complete connectivity.
 
+In conclusion
+The network was effectively divided into several groups via VLANs.
+VLANs hindered group communication in the absence of routeing.
+Inter-VLAN communication was made possible by router configuration.
+Network segmentation and routeing were practically implemented in the lab.
 
 
 
