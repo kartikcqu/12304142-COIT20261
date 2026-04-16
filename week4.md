@@ -9,6 +9,8 @@ Practiced inter-subnet communication
 
 To observe dynamic routing using OSPF and how networks adapt to changes.
 <img width="1890" height="928" alt="image" src="https://github.com/user-attachments/assets/20391c09-acb3-4de4-bffe-b5c8ce748dbc" />
+<img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/6bac3b55-cfe0-44ca-86be-8e22c18afde0" />
+
 
 
 
