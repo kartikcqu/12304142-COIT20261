@@ -33,7 +33,7 @@ Observed successful replies
 Ping to Invalid IP
 
 Command:
-ping 10.1.1.99
+ping 10.10.0.37
 
 No response received
 Observed packet loss 
