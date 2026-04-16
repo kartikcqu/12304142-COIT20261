@@ -33,8 +33,8 @@ Observed successful replies
 Ping to Invalid IP
 
 Command:
-
 ping 10.1.1.99
+
 No response received
 Observed packet loss 
 
