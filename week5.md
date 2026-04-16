@@ -16,6 +16,10 @@ To configure VLANs on a router and enable inter-VLAN communication.
 <img width="1870" height="885" alt="Vlan-Router-12304142 gns3project" src="https://github.com/user-attachments/assets/a26d12d9-0d67-4eac-836e-1166bdc1ee68" />
 <img width="1906" height="949" alt="Screenshot 2026-04-08 140053" src="https://github.com/user-attachments/assets/9d235216-2574-4b7b-8b1b-c052cd61f68b" />
 <img width="1850" height="441" alt="image" src="https://github.com/user-attachments/assets/21e831ba-4024-466b-b784-69018cfb6e8b" />
+Testing and Outcomes
+The router allowed hosts in various VLANs to connect with each other.
+Inter-VLAN routeing that works
+Ping tests verified complete connectivity.
 
 
 
