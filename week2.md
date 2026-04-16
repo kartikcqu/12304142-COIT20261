@@ -22,9 +22,17 @@ Assigned IP addresses to all hosts
 
 Command:
 ping 10.1.1.2
+
 Observed successful replies
 
 
 
 <img width="890" height="263" alt="image" src="https://github.com/user-attachments/assets/3e049920-1519-4564-8fbd-bf29f01e29eb" />
+Ping to Invalid IP
+
+Command:
+
+ping 10.1.1.99
+No response received
+Observed packet loss 
 
