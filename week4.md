@@ -1,3 +1,4 @@
+WEEK4 TUTORIAL
 <img width="1844" height="905" alt="view route network" src="https://github.com/user-attachments/assets/f6f3165f-d1ec-486d-975c-a92376619c87" />
 <img width="1146" height="372" alt="view route ping " src="https://github.com/user-attachments/assets/d07fb4c4-448a-45e0-bff2-487c2a9a240a" />
 <img width="1382" height="398" alt="image" src="https://github.com/user-attachments/assets/82ae7f25-4119-4dcd-bbe8-7cecf350112d" />
@@ -21,4 +22,8 @@ Learned how OSPF dynamically updates routes
 Understood neighbor relationships in routing
 Observed automatic path switching when network changes
 Gained practical experience with traceroute and routing protocols
+
+Conclusion
+
+All Week 04 tasks were successfully completed and documented. This week enhanced my understanding of routing, especially dynamic routing with OSPF, which is critical in real-world networking environments.
 
