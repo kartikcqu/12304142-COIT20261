@@ -12,16 +12,19 @@ Added:
 1 × Ethernet switch
 Connected all devices in a LAN
 <img width="1915" height="951" alt="Setting-IP-12304142-network" src="Image/Setting-IP-12304142-network.png" />
+
 <img width="854" height="546" alt="image" src="https://github.com/user-attachments/assets/f416be38-adf0-4a62-8177-583b886d2236" />
+
 Used the same project with 4 hosts
 Assigned IP addresses to all hosts
  Ping Tests
  Basic Ping Test
 
 Command:
-
 ping 10.1.1.2
 Observed successful replies
+
+
 
 <img width="890" height="263" alt="image" src="https://github.com/user-attachments/assets/3e049920-1519-4564-8fbd-bf29f01e29eb" />
 
