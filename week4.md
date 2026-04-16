@@ -10,3 +10,10 @@ Practiced inter-subnet communication
 To observe dynamic routing using OSPF and how networks adapt to changes.
 <img width="1890" height="928" alt="image" src="https://github.com/user-attachments/assets/20391c09-acb3-4de4-bffe-b5c8ce748dbc" />
 
+
+
+Learned how OSPF dynamically updates routes
+Understood neighbor relationships in routing
+Observed automatic path switching when network changes
+Gained practical experience with traceroute and routing protocols
+
